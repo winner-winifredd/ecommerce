@@ -31,13 +31,13 @@
 						<a href="admin_area/dashboard.php" class="footer-nav__link">Admin Dashboard &amp; Login</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="/admin_area/edit_store.php" class="footer-nav__link">Manage Pages</a>
+						<a href="admin_area/edit_store.php" class="footer-nav__link">Manage Pages</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="/admin_area/index.php" class="footer-nav__link">Manage Database</a>
+						<a href="admin_area/delete_p_cat.php" class="footer-nav__link">Manage Cart</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="/admin_area/customer_delete.php" class="footer-nav__link">Manage Customers</a>
+						<a href="admin_area/customer_delete.php" class="footer-nav__link">Manage Customers</a>
 					</li>
 					<!-- <li class="footer-nav__item">
 						<a href="customer/pay_offline.php" class="footer-nav__link">Pay Offline</a>

@@ -81,7 +81,7 @@ if(!isset($_SESSION['customer_email'])){
               </li>
 
             <li class="categories__item">
-              <a class="categories__link" href="../">
+              <a class="categories__link" href="shop.php">
                 Declutter
                
               </a>
