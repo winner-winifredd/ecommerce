@@ -96,7 +96,7 @@ if(isset($_GET['send_email'])){
 
 $subject = "Email Confirmation Message";
 
-$from = "sad.ahmed22224@gmail.com";
+$from = "nina.winifred@gmail.com";
 
 $message = "
 
@@ -182,7 +182,7 @@ include("delete_wishlist.php");
 
 <?php
 
-include("../includes/footer.php");
+include("includes/footer.php");
 
 ?>
 

@@ -121,6 +121,3 @@ $order_status = "<b style='color:green;'>Paid</b>";
 </table><!-- table table-bordered table-hover Ends -->
 
 </div><!-- table-responsive Ends -->
-
-
-

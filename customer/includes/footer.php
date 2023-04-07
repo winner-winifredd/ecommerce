@@ -7,41 +7,41 @@
 				<div class="footer-nav__heading">Information</div>
 				<ul class="footer-nav__list">
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">The brand</a>
+						<a href="contact.php" class="footer-nav__link">Contact Us</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Local stores</a>
+						<a href="about.php" class="footer-nav__link">About us</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Customer service</a>
+						<a href="customer_register.php" class="footer-nav__link">Customer Registration</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Privacy &amp; cookies</a>
+						<a href="terms.php" class="footer-nav__link">Privacy &amp; cookies</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Site map</a>
+						<a href="cart.php" class="footer-nav__link">My Cart</a>
 					</li>
 				</ul>
 			</div>
 
 			<div class="footer-nav__col footer-nav__col--whybuy">
-				<div class="footer-nav__heading">Why buy from us</div>
+				<div class="footer-nav__heading">Admin Panel</div>
 				<ul class="footer-nav__list">
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Shipping &amp; returns</a>
+						<a href="admin_area/dashboard.php" class="footer-nav__link">Admin Dashboard &amp; Login</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Secure shipping</a>
+						<a href="admin_area/edit_store.php" class="footer-nav__link">Manage Pages</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Testimonials</a>
+						<a href="admin_area/delete_p_cat.php" class="footer-nav__link">Manage Cart</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Award winning</a>
+						<a href="admin_area/customer_delete.php" class="footer-nav__link">Manage Customers</a>
 					</li>
-					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Ethical trading</a>
-					</li>
+					<!-- <li class="footer-nav__item">
+						<a href="customer/pay_offline.php" class="footer-nav__link">Pay Offline</a>
+					</li> -->
 				</ul>
 			</div>
 
@@ -49,22 +49,22 @@
 				<div class="footer-nav__heading">Your account</div>
 				<ul class="footer-nav__list">
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Sign in</a>
+						<a href="customer/customer_login.php" class="footer-nav__link">Sign in</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Register</a>
+						<a href="customer_register.php" class="footer-nav__link">Register</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">View cart</a>
+						<a href="cart.php" class="footer-nav__link">View cart</a>
 					</li>
-					<li class="footer-nav__item">
+					<!-- <li class="footer-nav__item">
 						<a href="#" class="footer-nav__link">View your lookbook</a>
+					</li> -->
+					<li class="footer-nav__item">
+						<a href="order.php" class="footer-nav__link">Pay Offline</a>
 					</li>
 					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Track an order</a>
-					</li>
-					<li class="footer-nav__item">
-						<a href="#" class="footer-nav__link">Update information</a>
+						<a href="terms.php" class="footer-nav__link">Terms and Conditions</a>
 					</li>
 				</ul>
 			</div>
@@ -73,16 +73,16 @@
 			<div class="footer-nav__col footer-nav__col--contacts">
 				<div class="footer-nav__heading">Contact details</div>
 				<address class="address">
-				Head Office: Avenue Fashion.<br>
-				180-182 Regent Street, London.
+				Head Office: Keffi.<br>
+				Nasarrawa, Nigeria.
 			</address>
 				<div class="phone">
 					Telephone:
-					<a class="phone__number" href="tel:0123456789">0123-456-789</a>
+					<a class="phone__number" href="tel:+2348130979672">+2348130979672</a>
 				</div>
 				<div class="email">
 					Email:
-					<a href="mailto:support@yourwebsite.com" class="email__addr">support@yourwebsite.com</a>
+					<a href="mailto:bisi@gmail.com" class="email__addr">bisi@gmail.com</a>
 				</div>
 			</div>
 
@@ -93,11 +93,11 @@
 		<div class="container clearfix">
 
 			<div class="banner-award">
-				<span>Award winner</span><br> Fashion awards 2016
+				<span>SHOP WITH US</span><br> @BISI NIGERIA
 			</div>
 
 			<div class="banner-social">
-				<a href="#" class="banner-social__link">
+				<a href="https://www.facebook.com" class="banner-social__link">
 				<i class="icon-facebook"></i>
 			</a>
 				<a href="#" class="banner-social__link">
@@ -112,21 +112,21 @@
 			</div>
 
 		</div>
-	</div>
+	</div> 
 
 	<div class="page-footer__subline">
 		<div class="container clearfix">
 
 			<div class="copyright">
-				&copy; 2018 Avenue Fashion&trade;
+				&copy; 2023 Bisi Nigeria &trade;
 			</div>
 
-			<div class="developer">
-				Dev by Yasser Dalouzi
-			</div>
+			<!-- <div class="developer">
+				Dev by #TechBabyGirl
+			</div> -->
 
 			<div class="designby">
-				Design by Yasser Dalouzi
+			Designed and developed by #TechBabyGirl
 			</div>
 		</div>
 	</div>

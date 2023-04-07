@@ -22,7 +22,7 @@
         </div>
 
         <div class="basket">
-          <a href="cart.php" class="btn btn--basket">
+          <a href="../cart.php" class="btn btn--basket">
             <i class="icon-basket"></i>
             <?php items(); ?> items
           </a>
@@ -65,8 +65,8 @@ if(!isset($_SESSION['customer_email'])){
       <div class="container clearfix">
 
         <div class="logo">
-          <a class="logo__link" href="index.php">
-            <img class="logo__img" src="../../images/logo.png" alt="Bisi logotype3" width="127" height="5" style="margin-top: -40%;">
+          <a class="logo__link" href="../">
+            <img class="logo__img" src="customer_images/BISI LOGO-01.png" alt="Bisi logotype3" width="127" height="5" style="margin-top: -40%;">
           </a>
         </div>
 
@@ -100,7 +100,7 @@ if(!isset($_SESSION['customer_email'])){
             </li>
 
           <li class="categories__item">
-              <a class="categories__link" href="customer/my_account.php?my_orders">
+              <a class="categories__link" href="../customer/my_account.php?my_orders">
                 My Account
                 <i class="icon-down-open-1"></i>
               </a>
@@ -110,13 +110,13 @@ if(!isset($_SESSION['customer_email'])){
                     <div class="dropdown__heading">Account Settings</div>
                     <ul class="dropdown__items">
                       <li class="dropdown__item">
-                        <a href="#" class="dropdown__link">My Wishlist</a>
+                        <a href="my_account.php?my_wishlist" class="dropdown__link">My Wishlist</a>
                       </li>
                       <li class="dropdown__item">
-                        <a href="#" class="dropdown__link">My Orders</a>
+                        <a href="my_account.php?my_orders" class="dropdown__link">My Orders</a>
                       </li>
                       <li class="dropdown__item">
-                        <a href="#" class="dropdown__link">View Shopping Cart</a>
+                        <a href="../cart.php" class="dropdown__link">View Shopping Cart</a>
                       </li>
                     </ul>
                   </div>
@@ -124,13 +124,13 @@ if(!isset($_SESSION['customer_email'])){
                     <div class="dropdown__heading"></div>
                     <ul class="dropdown__items">
                       <li class="dropdown__item">
-                        <a href="#" class="dropdown__link">Edit Your Account</a>
+                        <a href="my_account.php?edit_account" class="dropdown__link">Edit Your Account</a>
                       </li>
                       <li class="dropdown__item">
-                        <a href="#" class="dropdown__link">Change Password</a>
+                        <a href="my_account.php?change_pass" class="dropdown__link">Change Password</a>
                       </li>
                       <li class="dropdown__item">
-                        <a href="#" class="dropdown__link">Delete Account</a>
+                        <a href="my_account.php?delete_account" class="dropdown__link">Delete Account</a>
                       </li>
                     </ul>
                   </div>
